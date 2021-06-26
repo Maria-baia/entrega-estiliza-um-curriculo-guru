@@ -40,7 +40,7 @@ a[href="mailto:joe@bloggs.com"], a[href="http://www.bloggs.com"] {
 }
 
 #mainArea {
-    border-width: 3px;
+    border-width: 2px;
     border-style: solid;
     border-color: #f3f3f3;
     border-top-color: #cf8a05;
@@ -79,6 +79,7 @@ a[href="mailto:joe@bloggs.com"], a[href="http://www.bloggs.com"] {
 
 #contactDetails {
 	float: right;
+	color: #444444;
 }
 
 #contactDetails ul {
@@ -97,6 +98,7 @@ a[href="mailto:joe@bloggs.com"], a[href="http://www.bloggs.com"] {
 
 section {
 	padding: 20px 0 0;
+	border: 1px #dedede;
 }
 
 section:first-child {
