@@ -41,9 +41,7 @@ a[href="mailto:joe@bloggs.com"], a[href="http://www.bloggs.com"] {
 
 #mainArea {
     border-width: 2px;
-    border-style: solid;
-    border-color: #f3f3f3;
-    border-top-color: #cf8a05;
+    border-top: #cf8a05 solid;
 }
 
 #name h1 {
@@ -98,7 +96,7 @@ a[href="mailto:joe@bloggs.com"], a[href="http://www.bloggs.com"] {
 
 section {
 	padding: 20px 0 0;
-	border: 1px #dedede;
+	border-bottom: 1px solid #dedede;
 }
 
 section:first-child {
